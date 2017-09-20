@@ -1,7 +1,7 @@
 package com.biz.hello_freshman;
 
 /**
- * Hello world!
+ * Hello world! lining
  *
  */
 public class App 
